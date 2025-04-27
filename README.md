@@ -54,7 +54,7 @@ README.md       →  Project documentation
 
 1. Clone this repo:
 
-git clone https://github.com/pjcodex/spotify-clone.git
+     git clone https://github.com/pjcodex/spotify-clone.git
 
 
 2. Open the project folder.
